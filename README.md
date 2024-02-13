@@ -5,7 +5,7 @@ Projeto com a temática de cafeteria utilizando Bootstrap para aulas de "Framewo
 ## 🚀 Demonstração
 
 ![image](assets/images/final-project-capture-desktop.png)
-[Clique aqui](https://micheleambrosio.github.io/coffee-shop-bootstrap-dio/) para acessar o resultado final do projeto.
+[Clique aqui](https://nei-junio-17.github.io/Coffee-Shop/) para acessar o resultado final do projeto.
 
 ## 🛠️ Tecnologias Utilizadas
 
